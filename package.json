@@ -1,0 +1,16 @@
+{
+  "name": "fuzbot",
+  "version": "0.0.1",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dogukan",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "discord.js": "^12.4.0",
+    "moment": "^2.29.1"
+  }
+}
